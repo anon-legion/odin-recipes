@@ -1,0 +1,1 @@
+Odin project to demonstrate competence in basic HTML tags attributes
