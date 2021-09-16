@@ -1,0 +1,23 @@
+
+* {
+    background-color: black;
+    color: whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    font-weight: 500;
+}
+
+h1, h3 {
+    color: #9a6aff;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
